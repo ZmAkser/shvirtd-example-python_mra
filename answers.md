@@ -8,7 +8,9 @@
 
 ![Тест приложения, работающего на вм Яндекс Клауд](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/img/2026-06-29_11-45.png)
 
-![Запрос из бд приложения, работающего на вм Яндекс клауд](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/img/2026-06-29_15-56.png)
+![Запрос из бд приложения, работающего на вм Яндекс клауд](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/img/2026-06-29_11-46.png)
+
+![docker ps -a по SSH](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/img/2026-06-29_15-56.png)
 
 [Мой докер файл](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/Dockerfile.python)
 
