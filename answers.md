@@ -19,3 +19,7 @@
 [Докер игнор](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/.dockerignore)
 
 [Баш скрипт для ВМ](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/task4_bash.sh)
+
+![Анализ образа terraform через Dive](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/img/Screenshot_20260630_204544.png)
+
+![Извелечение фалйа terraform через docker save](https://github.com/ZmAkser/shvirtd-example-python_mra/blob/main/img/Screenshot_20260630_205112.png)
